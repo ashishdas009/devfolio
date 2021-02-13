@@ -15,7 +15,7 @@ module.exports = {
     // Optional: LinkedIn account URL
     linkedin: `https://www.linkedin.com/in/ashish-das-285389110/`,
     //Optional: email address
-    email: 'akd410@nyu.edu'
+    email: 'akd410@nyu.edu',
     // Content of the About Me section
     about: `Security Engineer by profession, and security researcher by passion. I am on a lifelong mission of protecting user data and privacy on the internet.`,
     // Optional: List your projects, they must have `name` and `description`. `link` is optional.
