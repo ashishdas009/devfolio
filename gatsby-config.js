@@ -60,7 +60,7 @@ module.exports = {
       },
       {
         name: 'Platforms',
-        description: 'Amazon Web Serverices (AWS), Google Cloud Platform (GCP), IBM Cloud',
+        description: 'Amazon Web Services (AWS), Google Cloud Platform (GCP), IBM Cloud',
       },
       {
         name: 'Other',
